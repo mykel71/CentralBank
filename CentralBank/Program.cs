@@ -7,7 +7,8 @@ class Program
     {
         { "USD", 18.0 }, // 1 USD = 18 ZAR
         { "EUR", 20.0 }, // 1 EUR = 20 ZAR
-        { "GBP", 23.0 }  // 1 GBP = 23 ZAR
+        { "GBP", 23.0 }, // 1 GBP = 23 ZAR
+        { "ZAR", 1.0 }   // 1 ZAR = 1 ZAR
     };
 
     static double inflation = 5.0;       // in percent
